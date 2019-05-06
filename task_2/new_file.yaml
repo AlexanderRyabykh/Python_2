@@ -1,0 +1,8 @@
+number: 25
+some_dict:
+  a: abba
+  b: papa
+to_list:
+- 1
+- 2
+- 3
